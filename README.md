@@ -1,7 +1,8 @@
 # [Harvey](https://github.com/Huauauaa/) 
 <a href="https://twitter.com/Harvey27171313">![](https://shields.io/twitter/follow/Harvey27171313?label=Follow)</a>
+<a href="https://github.com/Huauauaa">![](https://shields.io/github/followers/Huauauaa?label=Follow)</a>
+<a href="https://github.com/Huauauaa">![](https://shields.io/github/stars/Huauauaa?affiliations=OWNER%2CCOLLABORATOR)</a>
 
-![](https://shields.io/github/followers/Huauauaa?label=Follow)
 ```
   _    _                                 
  | |  | |                                
@@ -20,4 +21,4 @@
 [![Huauauaa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huauauaa)](https://github.com/Huauauaa)
 
 # Contact me
-- Email: harvey0379@163.com
+- <a href="mailto:webmaster@example.com">harvey0379@163.com</a>
