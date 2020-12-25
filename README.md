@@ -16,9 +16,9 @@
 
 [![Huauauaa's github stats](https://github-readme-stats.vercel.app/api?username=Huauauaa&theme=dark&count_private=true)](https://github.com/Huauauaa)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huauauaa&layout=compact)](https://github.com/Huauauaa/Huauauaa.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huauauaa&layout=compact)](https://github.com/Huauauaa/Huauauaa)
 
-[![Huauauaa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huauauaa)](https://github.com/Huauauaa)
+[![Huauauaa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huauauaa)](https://wakatime.com/dashboard)
 
 # Contact me
 - <a href="mailto:webmaster@example.com">harvey0379@163.com</a>
