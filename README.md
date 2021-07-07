@@ -1,4 +1,4 @@
-[<img src="https://readme-image.vercel.app/api/logo" width="200" />](https://github.com/Huauauaa/)
+<img src="https://readme-image.vercel.app/api/logo" width="200" />
 
 <a href="https://twitter.com/Harvey27171313">![](https://shields.io/twitter/follow/Harvey27171313?label=Follow)</a>
 <a href="https://github.com/Huauauaa">![](https://shields.io/github/followers/Huauauaa?label=Follow)</a>
@@ -15,15 +15,8 @@
                                    |___/                                  
 ```
 
-[![Huauauaa's github stats](https://github-readme-stats.vercel.app/api?username=Huauauaa&theme=dark&count_private=true)](https://github.com/Huauauaa)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huauauaa&theme=monokai)
+<img src="https://github-readme-stats.vercel.app/api?username=Huauauaa&theme=monokai&count_private=true" width="360" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huauauaa&layout=compact&theme=monokai" width="300" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Huauauaa&theme=monokai" width="660" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huauauaa&layout=compact)](https://github.com/Huauauaa/Huauauaa)
-
-[![Huauauaa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huauauaa)](https://wakatime.com/dashboard)
-
-Life: 
-
-![life](https://readme-image.vercel.app/api/life?birth=1991-06-21)
-
-# Contact me
-- <a href="mailto:webmaster@example.com">harvey0379@163.com</a>
