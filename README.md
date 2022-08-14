@@ -1,5 +1,4 @@
 # Hello
-## My name is Harvey Hua, and my Chinese name is 滑维巍. 
 
 <img src="https://readme-image.vercel.app/api/logo" width="200" />
 
@@ -13,4 +12,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huauauaa&layout=compact&theme=monokai" width="300" />
 <a href="https://wakatime.com/dashboard"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Huauauaa&theme=monokai" width="660" /></a>
 
-
+> [Drop a job](mailto:harvey0379@163.com)
