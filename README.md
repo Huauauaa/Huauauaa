@@ -1,4 +1,4 @@
-# Hello
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&duration=3000&pause=1000&lines=Hi.+I'm+Harvey.;%F0%9F%91%BB%F0%9F%91%BB%F0%9F%91%BB%F0%9F%91%BB%F0%9F%91%BB)](https://github.com/Huauauaa)
 
 <img src="https://readme-image.vercel.app/api/logo" width="200" />
 
