@@ -8,8 +8,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Huauauaa.Huauauaa)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Huauauaa&theme=monokai)
-<img src="https://github-readme-stats.vercel.app/api?username=Huauauaa&theme=monokai&count_private=true" width="360" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huauauaa&layout=compact&theme=monokai" width="300" />
-<a href="https://wakatime.com/dashboard"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Huauauaa&theme=monokai" width="660" /></a>
 
-> [Drop a job](mailto:harvey0379@163.com)
+
+> [Hire me](mailto:harvey0379@163.com)
